@@ -39,78 +39,1299 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 #EXTINF:-1, BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cualesel.net/wp-content/uploads/cu%C3%A1l-es-la-bandera-de-per%C3%BA-.png" group-title="INTERNACIONALES" ,-----INTERNACIONALES-----
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES",EURO SPORT
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://158.69.52.43:8000/img/202.jpg" group-title="HD",AXN HD
-http://158.69.52.43:8000/live/Sony/sony/125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://158.69.52.43:8000/img/212.jpg" group-title="HD",CARTOON NETWORK HD
-http://158.69.52.43:8000/live/Sony/sony/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://158.69.52.43:8000/img/635.jpg" group-title="HD",CINECANAL HD
-http://158.69.52.43:8000/live/Sony/sony/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://158.69.52.43:8000/img/1.jpg" group-title="HD",CINEMAX HD
-http://158.69.52.43:8000/live/Sony/sony/865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="http://158.69.52.43:8000/img/634.jpg" group-title="HD",DE PELICULA HD
-http://158.69.52.43:8000/live/Sony/sony/866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://158.69.52.43:8000/img/609.jpg" group-title="HD",ESPN 2 HD
-http://158.69.52.43:8000/live/Sony/sony/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://158.69.52.43:8000/img/610.jpg" group-title="HD",ESPN 3 HD
-http://158.69.52.43:8000/live/Sony/sony/153.m3u8
-#EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="F1 HD" tvg-logo="http://158.69.52.43:8000/img/618.jpg" group-title="HD",F1 HD
-http://158.69.52.43:8000/live/Sony/sony/155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION HD" tvg-logo="https://s6.postimg.org/f19tjlglt/foxaction.png" group-title="HD",FOX ACTION HD
-http://158.69.52.43:8000/live/Sony/sony/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="https://s32.postimg.org/ow3n5bfed/Fox_Movies_Premium_logo.png" group-title="HD",FOX MOVIES HD
-http://158.69.52.43:8000/live/Sony/sony/115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://158.69.52.43:8000/img/587.jpg" group-title="HD",FOX SPORTS 2 HD
-http://158.69.52.43:8000/live/Sony/sony/151.m3u8
-#EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="HOLA TV HD" tvg-logo="https://s32.postimg.org/u5dyinul1/hola_revista_logo.png" group-title="HD",HOLA TV HD
-http://158.69.52.43:8000/live/Sony/sony/682.m3u8
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NAT GEO  HD" tvg-logo="https://s6.postimg.org/itahwzln5/National_Geographic_Society.png" group-title="HD",NAT GEO  HD
-http://158.69.52.43:8000/live/Sony/sony/687.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NATGEO WILD HD" tvg-logo="https://s6.postimg.org/c05jmz5g1/Nat_Geo_Wild_logo.png" group-title="HD",NATGEO WILD HD
-http://158.69.52.43:8000/live/Sony/sony/145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="https://s32.postimg.org/vixk3h279/Nick_jr_logo.png" group-title="HD",NICK JR HD
-http://158.69.52.43:8000/live/Sony/sony/710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://s31.postimg.org/5ivp8pmi3/Nickelodeon_Pakistan.png" group-title="HD",NICKELODEON HD
-http://158.69.52.43:8000/live/Sony/sony/705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RITMOSON HD" tvg-logo="https://s6.postimg.org/dtradn13l/Ritmoson_logo_2014.png" group-title="HD",RITMOSON HD
-http://158.69.52.43:8000/live/Sony/sony/752.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="https://s32.postimg.org/5w455881h/space.png" group-title="HD",SPACE HD
-http://158.69.52.43:8000/live/Sony/sony/156.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="SYFY HD" tvg-logo="https://s31.postimg.org/g269c061n/studio_uni.png" group-title="HD",SYFY HD
-http://158.69.52.43:8000/live/Sony/sony/872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEHITS HD" tvg-logo="https://s6.postimg.org/es2lit841/Telehit_logo.png" group-title="HD",TELEHITS HD
-http://158.69.52.43:8000/live/Sony/sony/753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_2011.png" group-title="HD",LAS ESTRELLAS HD
-http://158.69.52.43:8000/live/Sony/sony/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIIN HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/11.png" group-title="HD",TIIN HD
-http://158.69.52.43:8000/live/Sony/sony/713.m3u8
-#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRUTV HD" tvg-logo="https://s32.postimg.org/kjt62nk9h/truu.png" group-title="HD",TRUTV HD
-http://158.69.52.43:8000/live/Sony/sony/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE HD" tvg-logo="https://s31.postimg.org/ur2adzgp7/unicable_hd.png" group-title="HD",UNICABLE HD
-http://158.69.52.43:8000/live/Sony/sony/662.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://s32.postimg.org/m1c5358lx/universalhd.png" group-title="HD",UNIVERSAL CHANNEL HD
-http://158.69.52.43:8000/live/Sony/sony/131.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER BROS HD" tvg-logo="https://s32.postimg.org/h5ol61a0l/warner.png" group-title="HD",WARNER BROS HD
-http://158.69.52.43:8000/live/Sony/sony/130.m3u8
-#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="http://158.69.52.43:8000/img/200.jpg" group-title="HD",A&E HD
-http://158.69.52.43:8000/live/Sony/sony/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://158.69.52.43:8000/img/615.jpg" group-title="HD",ESPN HD
-http://158.69.52.43:8000/live/Sony/sony/119.m3u8
-#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="FOX HD" tvg-logo="https://s6.postimg.org/wf72v5utt/fox.png" group-title="HD",FOX HD
-http://158.69.52.43:8000/live/Sony/sony/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX 1 HD" tvg-logo="https://s31.postimg.org/pvutadjcb/fox1.png" group-title="HD",FOX 1 HD
-http://158.69.52.43:8000/live/Sony/sony/120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="http://158.69.52.43:8000/img/588.jpg" group-title="HD",FOX SPORTS HD
-http://158.69.52.43:8000/live/Sony/sony/118.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN HD" tvg-logo="https://s31.postimg.org/g07yzagmz/golden_hd.png" group-title="HD",GOLDEN HD
-http://158.69.52.43:8000/live/Sony/sony/122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://s6.postimg.org/e0w37t1ld/History_logo_2008.png" group-title="HD",HISTORY HD
-http://158.69.52.43:8000/live/Sony/sony/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://s6.postimg.org/me28luhqp/mtv_hd.png" group-title="HD",MTV LIVE HD
-http://158.69.52.43:8000/live/Sony/sony/121.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="https://s31.postimg.org/tq6n2e717/tnt_hd.png" group-title="HD",TNT HD
-http://158.69.52.43:8000/live/Sony/sony/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC  HD" tvg-logo="http://158.69.52.43:8000/img/201.jpg" group-title="HD",AMC  HD
-http://158.69.52.43:8000/live/Sony/sony/157.m3u8
+#EXTINF:0,-CLARO-
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Tooncast
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney Jr
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Boomerang
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney XD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",AXN SD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",AXN HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",AXN FHD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",A&E [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",A&E [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",A&E [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Comedy Central [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Comedy Central [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Comedy Central [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Film Zone [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Film Zone [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Film Zone [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Sony [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Sony [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Sony [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Space [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Space [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Space [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT Series [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT Series [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT Series [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Universal Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Universal Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Universal Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Warner Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Warner Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Warner Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",FX [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",FX [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",FX [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",FOX Life
+http://live.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Cinema [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Cinema [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Cinema [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Movies [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Movies [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Movies [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Family [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Comedy [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Comedy [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Fox Comedy [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Family [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Signature [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Signature [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Signature [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Golden HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",CINE Latino
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",CINEma Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",DE PELICULA
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Cinecanal [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Cinecanal [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Cinecanal [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Plus [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Plus [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",HBO Plus [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Paramount Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Paramount Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Paramount Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Max 
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Max Prime [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Max Prime [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Max Prime [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Multipremier
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Unicable
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TL Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Animal Planet [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Animal Planet [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Animal Planet [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Investigation Discovery [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Investigation Discovery [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Investigation Discovery [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",History [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",History [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",History [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",NatGeo [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",NatGeo [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",NatGeo [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Lifetime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",E! Entertainment
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Civilization
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery H&H [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery H&H [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery H&H [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Science
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Theater [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Theater [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Theater [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery Turbo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery TLC [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery TLC [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Discovery TLC [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",MTV [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",MTV [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",MTV [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",VH1
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",VH1 Classics
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(04)/index.m3u8
+
+#EXTINF:-1,ES: La 1 FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2886.ts
+
+#EXTINF:-1,ES: La 1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3144.ts
+
+#EXTINF:-1,ES: La 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3145.ts
+
+#EXTINF:-1,ES: Antena 3 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3319.ts
+
+#EXTINF:-1,ES: Cuatro HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4228.ts
+
+#EXTINF:-1,ES: Telecinco HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4155.ts
+
+#EXTINF:-1,ES: La Sexta HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1761.ts
+
+#EXTINF:-1,ES: Cosmopolitan HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4180.ts
+
+#EXTINF:-1,ES: Neox
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5959.ts
+
+#EXTINF:-1,ES: Nova
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4183.ts
+
+#EXTINF:-1,ES: Mega TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5960.ts
+
+#EXTINF:-1,ES: FDF
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5961.ts
+
+#EXTINF:-1,ES: Divinity
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4236.ts
+
+#EXTINF:-1,ES: Energy
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4223.ts
+
+#EXTINF:-1,ES: Canal Sur Andalucia TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5962.ts
+
+#EXTINF:-1,ES: Odisea
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3019.ts
+
+#EXTINF:-1,ES: Clan TVE
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1476.ts
+
+#EXTINF:-1,ES: Ten
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4221.ts
+
+#EXTINF:-1,ES: 13 TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4161.ts
+
+#EXTINF:-1,ES: TV Madrid
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4156.ts
+
+#EXTINF:-1,ES: RTPA
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4201.ts
+
+#EXTINF:-1,ES: MTV Espana
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4159.ts
+
+#EXTINF:-1,ES: Extremadura TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18430.ts
+
+#EXTINF:-1,ES: TVE Internacional
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70293.ts
+
+#EXTINF:-1,ES: Canal 24 Horas
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4203.ts
+
+#EXTINF:-1,ES: Disney Junior
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4225.ts
+
+#EXTINF:-1,ES: Disney XD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4224.ts
+
+#EXTINF:-1,ES: Disney Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4226.ts
+
+#EXTINF:-1,ES: Baby TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4187.ts
+
+#EXTINF:-1,ES: Canal Panda
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1473.ts
+
+#EXTINF:-1,ES: Boing
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4240.ts
+
+#EXTINF:-1,ES: Nick Jr.
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4214.ts
+
+#EXTINF:-1,ES: Nickelodeon HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4213.ts
+
+#EXTINF:-1,ES: Viajar HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4216.ts
+
+#EXTINF:-1,ES: Discovery Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4179.ts
+
+#EXTINF:-1,ES: Discovery Dmax
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1477.ts
+
+#EXTINF:-1,ES: Dkiss
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1471.ts
+
+#EXTINF:-1,ES: National Geographic HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4215.ts
+
+#EXTINF:-1,ES: National Geographic
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4158.ts
+
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/14453.ts
+
+#EXTINF:-1,ES: Nat Geo Wild
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4175.ts
+
+#EXTINF:-1,ES: A&E
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3788.ts
+
+#EXTINF:-1,ES: Canal Cocina
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4186.ts
+
+#EXTINF:-1,ES: De Casa
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3146.ts
+
+#EXTINF:-1,ES: Iberalia TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4178.ts
+
+#EXTINF:-1,ES: Crimen E Investigacion
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/22412.ts
+
+#EXTINF:-1,ES: Historia
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4218.ts
+
+#EXTINF:-1,ES: Caza y Pesca
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4230.ts
+
+#EXTINF:-1,ES: DXTV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1488.ts
+
+#EXTINF:-1,ES: M Cine Ñ
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3326.ts
+
+#EXTINF:-1,ES: Canal+ Accion
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4235.ts
+
+#EXTINF:-1,ES: Movistar+ Xtra HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3328.ts
+
+#EXTINF:-1,ES: Movistar  Estrenos
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4238.ts
+
+#EXTINF:-1,ES: Canal+ Comedia
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3376.ts
+
+#EXTINF:-1,ES: M. Series
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4232.ts
+
+#EXTINF:-1,ES: Moviestar Series Xtra HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3375.ts
+
+#EXTINF:-1,ES: M. Dcine
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4227.ts
+
+#EXTINF:-1,ES: Hollywood HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1991.ts
+
+#EXTINF:-1,ES: SyFy HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4157.ts
+
+#EXTINF:-1,ES: SyFy
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4210.ts
+
+#EXTINF:-1,ES: Fox Life HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4219.ts
+
+#EXTINF:-1,ES: Fox HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4198.ts
+
+#EXTINF:-1,ES: Paramount Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4220.ts
+
+#EXTINF:-1,ES: Comedy Central
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4229.ts
+
+#EXTINF:-1,ES: TNT
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4208.ts
+
+#EXTINF:-1,ES: TCM
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4209.ts
+
+#EXTINF:-1,ES: AXN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4202.ts
+
+#EXTINF:-1,ES: AXN
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4242.ts
+
+#EXTINF:-1,ES: AXN White
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4241.ts
+
+#EXTINF:-1,ES: Calle 13
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4239.ts
+
+#EXTINF:-1,ES: AMC
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1492.ts
+
+#EXTINF:-1,ES: A3 Series
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4217.ts
+
+#EXTINF:-1,LAT: TV Mas
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1212.ts
+
+#EXTINF:-1,ES: TV Galicia
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4162.ts
+
+#EXTINF:-1,LAT: TELEVISA HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4204.ts
+
+#EXTINF:-1,LAT: Red Advenir
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1495.ts
+
+#EXTINF:-1,ES: Mega HD (Spain)
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4212.ts
+
+#EXTINF:-1,ES: Navarra Tv
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1478.ts
+
+#EXTINF:-1,ES: Taquilla 1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4173.ts
+
+#EXTINF:-1,ES: Taquilla 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4171.ts
+
+#EXTINF:-1,ES: Taquilla 3
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4170.ts
+
+#EXTINF:-1,ES: Taquilla 4
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4169.ts
+
+#EXTINF:-1,ES: Taquilla 5
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4168.ts
+
+#EXTINF:-1,ES: Taquilla 6
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4167.ts
+
+#EXTINF:-1,ES: Taquilla 7
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4166.ts
+
+#EXTINF:-1,ES: Taquilla 8
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4165.ts
+
+#EXTINF:-1,ES: Taquilla 9
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4164.ts
+
+#EXTINF:-1,ES: Taquilla 10
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4172.ts
+
+#EXTINF:-1,VIP ES: La Liga BAR 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7856.ts
+
+#EXTINF:-1,ES: La Liga
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3312.ts
+
+#EXTINF:-1,VIP ES: Bein Sports La Liga 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7869.ts
+
+#EXTINF:-1,ES: Bein Sport La Liga HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/6318.ts
+
+#EXTINF:-1,VIP ES: Bein Sports 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7870.ts
+
+#EXTINF:-1,ES: BeIN Sports
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3126.ts
+
+#EXTINF:-1,VIP ES: M. Futbol 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7861.ts
+
+#EXTINF:-1,ES: Movistar+ Futbol
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3327.ts
+
+#EXTINF:-1,VIP ES: M. Deportes 1 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7862.ts
+
+#EXTINF:-1,ES: Movistar+ Deportes 1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/13.ts
+
+#EXTINF:-1,VIP ES: M. DEPORTES 2 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7863.ts
+
+#EXTINF:-1,ES: Movistar+ Deportes 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4237.ts
+
+#EXTINF:-1,VIP ES: Gol HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/10920.ts
+
+#EXTINF:-1,ES: Gol TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/6716.ts
+
+#EXTINF:-1,VIP ES: MoviStar F1 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7866.ts
+
+#EXTINF:-1,ES: Movistar F1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4176.ts
+
+#EXTINF:-1,VIP ES: Movistar Moto GP HD 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7867.ts
+
+#EXTINF:-1,ES: Movistar Moto GP
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3313.ts
+
+#EXTINF:-1,VIP ES: M.Golf 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7864.ts
+
+#EXTINF:-1,ES: Movistar+ Golf
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4233.ts
+
+#EXTINF:-1,VIP ES: TOROS HD 1080P
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7865.ts
+
+#EXTINF:-1,ES: Toros TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/14.ts
+
+#EXTINF:-1,ES: Teledeporte
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4197.ts
+
+#EXTINF:-1,ES: Eurosport 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1493.ts
+
+#EXTINF:-1,ES: Eurosport 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4206.ts
+
+#EXTINF:-1,ES: Barca TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4207.ts
+
+#EXTINF:-1,VIP ES: Multideporte
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/10921.ts
+
+#EXTINF:-1,VIP ES: beIN LaLIga 1 (event only)
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7857.ts
+
+#EXTINF:-1,ES : Energy FM
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70395.ts
+
+#EXTINF:-1,ES : FM Urban Radio
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70350.ts
+
+#EXTINF:-1,ES : Loca FM
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70393.ts
+
+#EXTINF:-1,ES : Los 40 Principales
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70392.ts
+
+#EXTINF:-1,VIP LAT: Univision Deportes
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7835.ts
+
+#EXTINF:-1,LAT: Fox Sports
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12407.ts
+
+#EXTINF:-1,VIP LAT: Fox Sports 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7926.ts
+
+#EXTINF:-1,LAT: Fox Sports 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12408.ts
+
+#EXTINF:-1,LAT: Claro Sports
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/14204.ts
+#EXTINF:-1,IT: Sky Sport 24 FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/20998.ts
+
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2895.ts
+
+#EXTINF:-1,IT: Sky Sport 1 FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/44700.ts
+
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1572.ts
+
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2739.ts
+
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3102.ts
+
+#EXTINF:-1,IT: Sky Sport Plus HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5872.ts
+
+#EXTINF:-1,IT: Sky Sport Mix HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7662.ts
+
+#EXTINF:-1,IT: Fox Sports HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/1571.ts
+
+#EXTINF:-1,IT: Sky Sport F1 FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/42686.ts
+
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3131.ts
+
+#EXTINF:-1,IT: Sky Sport Moto GP HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3253.ts
+
+#EXTINF:-1,IT: Sky Supercalcio FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37607.ts
+
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3125.ts
+
+#EXTINF:-1,IT: Premium Sport FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/21013.ts
+
+#EXTINF:-1,IT: Premium Sport HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3254.ts
+
+#EXTINF:-1,IT: Premium Sport
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3844.ts
+
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3255.ts
+
+#EXTINF:-1,IT: Premium Sport 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3845.ts
+
+#EXTINF:-1,IT: Eurosport 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3256.ts
+
+#EXTINF:-1,IT: Eurosport 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3257.ts
+
+#EXTINF:-1,IT: Rai Sport FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70288.ts
+
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2771.ts
+
+#EXTINF:-1,IT: Rai Sport 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2770.ts
+
+#EXTINF:-1,IT: Sport Italia
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2774.ts
+
+#EXTINF:-1,IT: Top Calcio
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7663.ts
+
+#EXTINF:-1,IT: Super Tennis HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2855.ts
+
+#EXTINF:-1,IT: Automoto
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2822.ts
+
+#EXTINF:-1,IT: Bike HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5938.ts
+
+#EXTINF:-1,IT: Nautical HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9172.ts
+
+#EXTINF:-1,IT: Class Horse
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7661.ts
+
+#EXTINF:-1,IT: Roma Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3269.ts
+
+#EXTINF:-1,IT: Milan Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3272.ts
+
+#EXTINF:-1,IT: Juventus Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3270.ts
+
+#EXTINF:-1,IT: Inter Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3271.ts
+
+#EXTINF:-1,IT: Lazio Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7664.ts
+
+#EXTINF:-1,IT: Torino Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5956.ts
+
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3130.ts
+
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3267.ts
+
+#EXTINF:-1,IT: Premium Calcio 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3268.ts
+
+#EXTINF:-1,IT: Premium Calcio 3
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3894.ts
+
+#EXTINF:-1,IT: Premium Calcio 4
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3895.ts
+
+#EXTINF:-1,IT: Premium Calcio 5
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3896.ts
+
+#EXTINF:-1,IT: Premium Calcio 6
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3897.ts
+
+#EXTINF:-1,(IT) Sky Sport 24 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9120.ts
+
+#EXTINF:-1,(IT) Alice
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9155.ts
+
+#EXTINF:-1,(IT) Animal Planet
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9154.ts
+
+#EXTINF:-1,(IT) Automoto TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9135.ts
+
+#EXTINF:-1,(IT) Baby TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9178.ts
+
+#EXTINF:-1,(IT) Boing
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9182.ts
+
+#EXTINF:-1,(IT) Caccia e Pesca
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9173.ts
+
+#EXTINF:-1,(IT) Canale 5 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9066.ts
+
+#EXTINF:-1,(IT) Cartoon Network
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9181.ts
+
+#EXTINF:-1,(IT) Cartoonito
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9180.ts
+
+#EXTINF:-1,(IT) Cielo HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9153.ts
+
+#EXTINF:-1,(IT) Class Horse TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9136.ts
+
+#EXTINF:-1,(IT) Nove Deejay
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9169.ts
+
+#EXTINF:-1,(IT) Discovery HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9158.ts
+
+#EXTINF:-1,(IT) Discovery Science HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9157.ts
+
+#EXTINF:-1,(IT) Discovery Travel & Living HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9156.ts
+
+#EXTINF:-1,(IT) Disney Junior HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9184.ts
+
+#EXTINF:-1,(IT) Disney XD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9179.ts
+
+#EXTINF:-1,(IT) Dmax
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9151.ts
+
+#EXTINF:-1,(IT) E!
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9163.ts
+
+#EXTINF:-1,(IT) Eurosport 1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9133.ts
+
+#EXTINF:-1,(IT) Eurosport 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9132.ts
+
+#EXTINF:-1,BR: BAND SPORTS
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16965.ts
+
+#EXTINF:-1,BR: ESPN
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16940.ts
+
+#EXTINF:-1,BR: ESPN Brasil
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16971.ts
+
+#EXTINF:-1,BR: FOX Sports 1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16974.ts
+
+#EXTINF:-1,BR: Fox Sports 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16975.ts
+
+#EXTINF:-1,BR: Sport TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16968.ts
+
+#EXTINF:-1,BR: SPORT TV 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16969.ts
+
+#EXTINF:-1,BR: SPORT TV 3
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16970.ts
+
+#EXTINF:-1,BR: Sport TV2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16967.ts
+
+#EXTINF:-1,BR: Sport TV3
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16966.ts
+
+#EXTINF:-1,BR: Premiere Clubes
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16917.ts
+
+#EXTINF:-1,US HD: ABC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5848.ts
+
+#EXTINF:-1,US HD: CBS HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/8975.ts
+
+#EXTINF:-1,US HD: NBC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/8976.ts
+
+#EXTINF:-1,US HD: Fox HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15092.ts
+
+#EXTINF:-1,US HD: Fox 5 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/8974.ts
+
+#EXTINF:-1,US HD: CW HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16781.ts
+
+#EXTINF:-1,US HD: PBS HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16787.ts
+
+#EXTINF:-1,US HD: Sundance HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16788.ts
+
+#EXTINF:-1,US HD: National Geographic HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16785.ts
+
+#EXTINF:-1,US HD: Discovery Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15296.ts
+
+#EXTINF:-1,US HD: Discovery Velocity HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15289.ts
+
+#EXTINF:-1,US HD: Discovery Science HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3750.ts
+
+#EXTINF:-1,US HD: Discovery Family HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15267.ts
+
+#EXTINF:-1,US HD: Investigation Discovery HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3748.ts
+
+#EXTINF:-1,US HD: Food Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15135.ts
+
+#EXTINF:-1,US HD: Cooking Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11081.ts
+
+#EXTINF:-1,US HD: Animal Planet HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15298.ts
+
+#EXTINF:-1,US HD: A&E HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15282.ts
+
+#EXTINF:-1,US HD: History Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5317.ts
+
+#EXTINF:-1,US HD: Destination America HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15307.ts
+
+#EXTINF:-1,US HD: Travel Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2625.ts
+
+#EXTINF:-1,US HD: Comedy Central HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16782.ts
+
+#EXTINF:-1,US HD: Freeform HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15303.ts
+
+#EXTINF:-1,US HD: Hallmark Movies & Mysteries HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/19693.ts
+
+#EXTINF:-1,US HD: MTV HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15309.ts
+
+#EXTINF:-1,US HD: VH1 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15315.ts
+
+#EXTINF:-1,US HD: E! HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15301.ts
+
+#EXTINF:-1,US HD: FX HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15291.ts
+
+#EXTINF:-1,US HD: FXX HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3646.ts
+
+#EXTINF:-1,US HD: DIY Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15403.ts
+
+#EXTINF:-1,US HD: CBN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15271.ts
+
+#EXTINF:-1,US HD: AMC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15299.ts
+
+#EXTINF:-1,US HD: USA Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15272.ts
+
+#EXTINF:-1,US HD: HGTV HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15287.ts
+
+#EXTINF:-1,US HD: Bet HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15284.ts
+
+#EXTINF:-1,US HD: Outdoor HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15268.ts
+
+#EXTINF:-1,US HD: Bravo HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15460.ts
+
+#EXTINF:-1,US HD: OWN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15294.ts
+
+#EXTINF:-1,US HD: Spike/Paramount HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15310.ts
+
+#EXTINF:-1,US HD: TLC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15311.ts
+
+#EXTINF:-1,US HD: TRU TV HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15305.ts
+
+#EXTINF:-1,US HD: Lifetime HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15295.ts
+
+#EXTINF:-1,US HD: Reelz HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15270.ts
+
+#EXTINF:-1,US HD: TBS HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15292.ts
+
+#EXTINF:-1,US HD: Disney HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15288.ts
+
+#EXTINF:-1,US HD: Nick HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16786.ts
+
+#EXTINF:-1,US HD: Nick Jr HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15317.ts
+
+#EXTINF:-1,US HD: Cartoon Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15300.ts
+
+#EXTINF:-1,US HD: BBC America HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15406.ts
+
+#EXTINF:-1,US HD: Big Ten Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15290.ts
+
+#EXTINF:-1,US HD: Starz East HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15314.ts
+
+#EXTINF:-1,US HD: Epix HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15280.ts
+
+#EXTINF:-1,US HD: Epix 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15281.ts
+
+#EXTINF:-1,US HD: SYFY HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15293.ts
+
+#EXTINF:-1,US HD: TNT HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15304.ts
+
+#EXTINF:-1,US HD: HBO HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15086.ts
+
+#EXTINF:-1,US HD: HBO 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15091.ts
+
+#EXTINF:-1,US HD: HBO Zone HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15089.ts
+
+#EXTINF:-1,US HD: HBO Family HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15090.ts
+
+#EXTINF:-1,US HD: CineMax HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15302.ts
+
+#EXTINF:-1,US HD: MoreMax HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15297.ts
+
+#EXTINF:-1,US HD: ThrillerMax HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15306.ts
+
+#EXTINF:-1,US HD: Showtime HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15404.ts
+
+#EXTINF:-1,US HD: Showtime 2 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15405.ts
+
+#EXTINF:-1,US HD: AFN Pulse
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11499.ts
+
+#EXTINF:-1,US HD: AFN Spectrum
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11498.ts
+
+#EXTINF:-1,US HD: AFN Prime Pacific
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11497.ts
+
+#EXTINF:-1,US HD: AFN Prime Atlantic
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11496.ts
+
+#EXTINF:-1,US HD: AFN Movie
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11495.ts
+
+#EXTINF:-1,US HD: Fox News HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/10954.ts
+
+#EXTINF:-1,US HD: Fox 50
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/17995.ts
+
+#EXTINF:-1,US HD: Fox Business Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15308.ts
+
+#EXTINF:-1,US HD: CNN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15407.ts
+
+#EXTINF:-1,US HD: CNBC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16780.ts
+
+#EXTINF:-1,US HD: Disney Junior HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18432.ts
+
+#EXTINF:-1,US HD: ABC7 HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18431.ts
+
+#EXTINF:-1,US HD: The Weather Channel HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/15285.ts
+
+#EXTINF:-1,US HD: AFN News
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16361.ts
+
+#EXTINF:-1,US HD: California Music Channel
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28255.ts
+
+#EXTINF:-1,US HD: ABC NY HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28483.ts
+
+#EXTINF:-1,US: AFN MOVIE
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4144.ts
+
+#EXTINF:-1,US: Fox HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5879.ts
+
+#EXTINF:-1,US: USA Network
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5309.ts
+
+#EXTINF:-1,US: CBS NY HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/8595.ts
+
+#EXTINF:-1,US: CBS FHD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5351.ts
+
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5330.ts
+
+#EXTINF:-1,US: Hallmark
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5324.ts
+
+#EXTINF:-1,US: HGTV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5318.ts
+
+#EXTINF:-1,US: TBS HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5333.ts
+
+#EXTINF:-1,US: AMC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7645.ts
+
+#EXTINF:-1,US: Freeform HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3747.ts
+
+#EXTINF:-1,US: TLC
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4530.ts
+
+#EXTINF:-1,US: Diy Network HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3649.ts
+
+#EXTINF:-1,US: Bravo HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3664.ts
+
+#EXTINF:-1,US HD: The Blaze
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11045.ts
+
+#EXTINF:-1,US: HBO HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5323.ts
+
+#EXTINF:-1,US: HBO Siignature
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5320.ts
+
+#EXTINF:-1,US: HBO ZONE
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5319.ts
+
+#EXTINF:-1,US: HBO Family
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5322.ts
+
+#EXTINF:-1,US: Showtime 2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/10733.ts
+
+#EXTINF:-1,US: Showtime West
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5337.ts
+
+#EXTINF:-1,US: Starz Edge
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5338.ts
+
+#EXTINF:-1,US: Starz Comedy
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/10738.ts
+
+#EXTINF:-1,US: Cinemax Moremax
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3629.ts
+
+#EXTINF:-1,US: Cinemax Action Max
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3658.ts
+
+#EXTINF:-1,US: Cinemax HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5336.ts
+
+#EXTINF:-1,US: Spike HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5332.ts
+
+#EXTINF:-1,US: LIFETIME HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5316.ts
+
+#EXTINF:-1,US: TV Land
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/9585.ts
+
+#EXTINF:-1,US: HIFI
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4564.ts
+
+#EXTINF:-1,US: TNT HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5352.ts
+
+#EXTINF:-1,US: SyFy HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5334.ts
+
+#EXTINF:-1,US: Comedy Central HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3660.ts
+
+#EXTINF:-1,US: Discovery Velocity
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/11075.ts
+
+#EXTINF:-1,US: H2
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5325.ts
+
+#EXTINF:-1,US: Food Network
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5312.ts
+
+#EXTINF:-1,US: A & E
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5310.ts
+
+#EXTINF:-1,US: Animal Planet
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4529.ts
+
+#EXTINF:-1,US: E!
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3663.ts
+
+#EXTINF:-1,US: VH1 Classic
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/17340.ts
+
+#EXTINF:-1,US: Cinemax East
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3628.ts
+
+#EXTINF:-1,US: World Fashion HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3592.ts
+
+#EXTINF:-1,US: Amazing Facts TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3647.ts
+
+#EXTINF:-1,US: Big Ten Network
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3652.ts
+
+#EXTINF:-1,US: TSC
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3528.ts
+
+#EXTINF:-1,US: Disney XD HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3661.ts
+
+#EXTINF:-1,US HD: Nasa TV HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2830.ts
+
+#EXTINF:-1,US: Bet
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3659.ts
+
+#EXTINF:-1,US: CBN
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12832.ts
+
+#EXTINF:-1,US: C-Span1
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3602.ts
+
+#EXTINF:-1,US: Smile Of A Child
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3745.ts
+
+#EXTINF:-1,US: Oxygen
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3654.ts
+
+#EXTINF:-1,US: Cpac
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3632.ts
+
+#EXTINF:-1,US: NBC HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3174.ts
+
+#EXTINF:-1,US: CNN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3159.ts
+
+#EXTINF:-1,US: CBSN HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5349.ts
+
+#EXTINF:-1,US: Cozi TV
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5339.ts
+
+#EXTINF:-1,US: Fox 59 News
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3651.ts
+
+#EXTINF:-1,US: CNBC
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2624.ts
+
+#EXTINF:-1,US HD: CBN News
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12831.ts
+
+#EXTINF:-1,US: RT Documentary
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2836.ts
+
+#EXTINF:-1,US: RT America HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3644.ts
+
+#EXTINF:-1,US HD: WGN News Chicago HD
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/3600.ts
+
+#EXTINF:-1,US: Weather Nation
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/2883.ts
+
+#EXTINF:-1,US: Pop & Country
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/13977.ts
+
+#EXTINF:-1,ES : Mataró Ràdio
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70391.ts
+
+#EXTINF:-1,ES : Megahits
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70351.ts
+
+#EXTINF:-1,ES : Oasis FM
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70390.ts
+
+#EXTINF:-1,ES : Street 63 Radio
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70349.ts
+
+#EXTINF:-1,ES : Xtra Musica
+http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/70348.ts
+
+
+
+
+0=
