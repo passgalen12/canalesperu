@@ -1,60 +1,48 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cualesel.net/wp-content/uploads/cu%C3%A1l-es-la-bandera-de-per%C3%BA-.png" group-title="PERU" ,-----PERU-----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="PERU",America
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/frecuencialatina.png", Latina
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/frecuencialatina.png" aspect-ratio="16:9", Latina
-https://live82.vkuserlive.com/637604/live/ySZn-LhAf6SWvkIg/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/americatvpe.png", DIRECTV sport+ 
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/americatvpe.png" aspect-ratio="16:9", DIRECTV sport+ 
-https://live56.vkuserlive.com/639910/live/yDl4-SlAfzVAMngn/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/55/09/76/55097694-30ef-0bb7-eba3-a6c1c73082ae/source/256x256bb.jpg" aspect-ratio="16:9", Panamericana TV
-http://cdnh15.iblups.com/hls/ptv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ideasinspiringinnovation.files.wordpress.com/2013/09/logo_tv-peru_dian-hasan-branding_pe-2.jpg" aspect-ratio="16:9", Tv Peru
+#EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana TV
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
+#EXTINF:-1 tvg-logo="https://ideasinspiringinnovation.files.wordpress.com/2013/09/logo_tv-peru_dian-hasan-branding_pe-2.jpg", Tv Peru
 http://cdnh15.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo_ATV.png", Atv
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo_ATV.png" aspect-ratio="16:9", Atv
-http://d1gsv35shoz9yr.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.com.pe/c/document_library/get_file?uuid=33fc07dc-87f6-412e-aa0a-dcda542e7f3d&groupId=10182", Rpp TV
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.movistar.com.pe/c/document_library/get_file?uuid=33fc07dc-87f6-412e-aa0a-dcda542e7f3d&groupId=10182", Rpp TV
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/project_276x200/public/Canal-IPE.jpg?itok=sZuvZqNJ", Ipe
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/project_276x200/public/Canal-IPE.jpg?itok=sZuvZqNJ", Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/892857169913159680/XJ5W5uHe_400x400.jpg", ATV +
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/892857169913159680/XJ5W5uHe_400x400.jpg" aspect-ratio="16:9", ATV +
-http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJN35_NilUZ1INcfshhPTI04CCESGmR6I8qzzCkpQAlNcC4ri4" aspect-ratio="16:9", NexTV
-http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJN35_NilUZ1INcfshhPTI04CCESGmR6I8qzzCkpQAlNcC4ri4", NexTV
 
 #EXTINF:-1, WILLAX TV
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
 #EXTINF:-1, RBC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1139961473.m3u8
-
-#EXTINF:-1, CTC TV
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-
-#EXTINF:-1, BH TV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" aspect-ratio="16:9", Capital TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png", Capital TV
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
-
 #EXTINF:-1, ANTARES TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://4.bp.blogspot.com/-73zCqq-RAXI/T6LKwowZ8KI/AAAAAAAAAGY/yiqvq_ZxrFU/s1600/la+inolvidable+radio.jpg" aspect-ratio="16:9", La Inolvidable
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-73zCqq-RAXI/T6LKwowZ8KI/AAAAAAAAAGY/yiqvq_ZxrFU/s1600/la+inolvidable+radio.jpg", La Inolvidable
 http://18723.live.streamtheworld.com/CRP_LI_SC
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1qrtiM1KppE/VrX634nor9I/AAAAAAAACzI/6w5Bv1lpiK4/s1600/radio-la-karibena.png", La Karibeña
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://4.bp.blogspot.com/-1qrtiM1KppE/VrX634nor9I/AAAAAAAACzI/6w5Bv1lpiK4/s1600/radio-la-karibena.png", La Karibeña
-http://167.114.118.120:7442/;stream/1
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://radiomar.pe/assets/images/imagen-Radiomar-enVivo.jpg", Radiomar Plus
+#EXTINF:-1 tvg-logo="http://radiomar.pe/assets/images/imagen-Radiomar-enVivo.jpg", Radiomar Plus
 http://19813.live.streamtheworld.com/CRP_MAR_SC
+#EXTINF:-1, CTC TV HD
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1, BH TV HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://158.69.52.43:8000/img/202.jpg" group-title="HD",AXN HD
+#EXTINF:-1 tvg-logo="http://cualesel.net/wp-content/uploads/cu%C3%A1l-es-la-bandera-de-per%C3%BA-.png" group-title="INTERNACIONALES" ,-----INTERNACIONALES-----
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONALES",EURO SPORT
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://158.69.52.43:8000/img/202.jpg" group-title="HD",AXN HD
 http://158.69.52.43:8000/live/Sony/sony/125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://158.69.52.43:8000/img/212.jpg" group-title="HD",CARTOON NETWORK HD
 http://158.69.52.43:8000/live/Sony/sony/126.m3u8
