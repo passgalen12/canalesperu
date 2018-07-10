@@ -25,13 +25,10 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney Jr
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Boomerang [FHD]
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Boomerang 
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney XD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8 
-#EXTINF:0,Boomerang FULL HD
-#EXTVLCOPT:network-caching=1000
-http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4176.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(04)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT [FHD]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TNT Series [FHD]
@@ -94,8 +91,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Str
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",MTV [FHD]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Golden [FHD]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Golden
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Max 
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",FOX Life
@@ -115,7 +112,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Unicable
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TELEMUNDO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(06)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",TL Novelas
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",CINE Latino
