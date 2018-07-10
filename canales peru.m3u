@@ -26,7 +26,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney Jr
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Boomerang [FHD]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/Stream(03)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",Disney XD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8 
 #EXTINF:-1,CARTOON NETWORK HD 
