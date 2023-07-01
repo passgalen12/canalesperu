@@ -121,3 +121,31 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/in
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/600px-Claro.svg.png" group-title="CLARO",DE PELICULA
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/Stream(04)/index.m3u8
+#EXTINF:-1,La guerra de las galaxias. Episodio IV: Una nueva esperanza (1977)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095771.mkv
+#EXTINF:-1,La guerra de las galaxias. Episodio II: El ataque de los clones (2002)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095772.mkv
+#EXTINF:-1,La guerra de las galaxias. Episodio III: La venganza de los Sith (2005)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095773.mkv
+#EXTINF:-1,La guerra de las galaxias. Episodio I: La amenaza fantasma (1999)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095774.mkv
+#EXTINF:-1,Star Wars: El despertar de la fuerza (2015)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095775.mkv
+#EXTINF:-1,La guerra de las galaxias. Episodio VI: El retorno del Jedi (1983)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095776.mkv
+#EXTINF:-1,La guerra de las galaxias. Episodio V: El imperio contraataca (1980)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095777.mkv
+#EXTINF:-1,Star Wars: Los últimos Jedi (2017)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095778.mkv
+#EXTINF:-1,Star Wars: El ascenso de Skywalker (2019)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095779.mkv
+#EXTINF:-1,Rogue One: Una historia de Star Wars (2016)
+http://tv.nousiptv.com:8080/movie/043686/gabrielc/1095711.mkv
+#EXTINF:0,Rogue One: Una historia de Star Wars (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/130058.mp4
+#EXTINF:0,Rogue One: Una historia de Star Wars (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/146651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue One: Una historia de Star Wars (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura",Rogue One: Una historia de Star Wars (2016)
+http://00322.xyz:8000/movie/ignaciosilveira18/BYkBr283y8/130058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue One: Una historia de Star Wars (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura",Rogue One: Una historia de Star Wars (2016)
+http://00322.xyz:8000/movie/ignaciosilveira18/BYkBr283y8/146651.mp4
